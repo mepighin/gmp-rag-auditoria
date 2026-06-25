@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+indice_rag_gmp/
+__pycache__/
+*.pyc
+.env
+docs/
